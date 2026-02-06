@@ -12,12 +12,12 @@
 	color: black;
 	text-align: left;
 	padding: 10px 5px 10px 5px;
-	margin: 10px 0px 10px 0px;
+	margin: 0px 0px 10px 0px;
 }
 #contenido {
 	margin: 20px;
 	padding: 10px;
-	border: 2px solid purple;
+	border: 2px solid grey;
 	border-radius: 15px;
 }
 #pie {
@@ -47,6 +47,7 @@ body {
 }
 a {
 	color: Teal;
+	padding-right: 10px;
 }
 a:hover {
 	color: purple;
