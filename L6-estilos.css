@@ -1,0 +1,62 @@
+* {padding: 0px;
+	margin: 0px;
+}
+#cabecera {
+	background-color: purple;
+	color: white;
+	text-align: center;
+	padding: 10px 5px 10px 5px;
+}
+#nav {
+	background-color: salmon;
+	color: black;
+	text-align: left;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0px 10px 0px;
+}
+#contenido {
+	margin: 20px;
+	padding: 10px;
+	border: 2px solid purple;
+	border-radius: 15px;
+}
+#pie {
+	background-color: SteelBlue;
+	text-align: left;
+	padding: 5px 5px 5px 5px;
+	color:white;
+}
+img {
+	margin: 10px;
+}
+li {
+	margin: 3px 0px 3px 30px;
+}
+p {
+	margin: 5px 0px 5px 0px;
+}
+h1 {
+	margin: 5px 0px 5px 0px;
+}
+h2 {
+	margin: 5px 0px 5px 0px;
+}
+body {
+	text-align: left;
+	font-family: Gabriela;
+}
+a {
+	color: Teal;
+}
+a:hover {
+	color: purple;
+}
+.fav {
+	color: Maroon;
+}
+.fav:hover {
+	color: Crimson;
+}
+.recursos {
+	list-style-type: none;
+}
